@@ -1,2 +1,0 @@
-C:\Users\Michael\source\repos\CSharpExercises\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
-C:\Users\Michael\source\repos\CSharpExercises\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
