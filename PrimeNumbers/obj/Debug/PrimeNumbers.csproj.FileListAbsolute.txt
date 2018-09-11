@@ -1,0 +1,6 @@
+C:\Users\Michael\source\repos\CSharpExercises\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+C:\Users\Michael\source\repos\CSharpExercises\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\Users\Michael\source\repos\CSharpExercises\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\Michael\source\repos\CSharpExercises\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\CSharpExercises\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\Users\Michael\source\repos\CSharpExercises\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

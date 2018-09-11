@@ -1,0 +1,7 @@
+C:\Users\Michael\source\repos\CSharpExercises\JaggedCount\bin\Debug\JaggedCount.exe.config
+C:\Users\Michael\source\repos\CSharpExercises\JaggedCount\bin\Debug\JaggedCount.exe
+C:\Users\Michael\source\repos\CSharpExercises\JaggedCount\bin\Debug\JaggedCount.pdb
+C:\Users\Michael\source\repos\CSharpExercises\JaggedCount\obj\Debug\JaggedCount.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\CSharpExercises\JaggedCount\obj\Debug\JaggedCount.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\CSharpExercises\JaggedCount\obj\Debug\JaggedCount.exe
+C:\Users\Michael\source\repos\CSharpExercises\JaggedCount\obj\Debug\JaggedCount.pdb

@@ -1,0 +1,7 @@
+C:\Users\Michael\source\repos\CSharpExercises\Lists\bin\Debug\Lists.exe.config
+C:\Users\Michael\source\repos\CSharpExercises\Lists\bin\Debug\Lists.exe
+C:\Users\Michael\source\repos\CSharpExercises\Lists\bin\Debug\Lists.pdb
+C:\Users\Michael\source\repos\CSharpExercises\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\CSharpExercises\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\CSharpExercises\Lists\obj\Debug\Lists.exe
+C:\Users\Michael\source\repos\CSharpExercises\Lists\obj\Debug\Lists.pdb

@@ -1,0 +1,7 @@
+C:\Users\Michael\source\repos\CSharpExercises\OOPpracticeExercise\bin\Debug\OOPpracticeExercise.exe.config
+C:\Users\Michael\source\repos\CSharpExercises\OOPpracticeExercise\bin\Debug\OOPpracticeExercise.exe
+C:\Users\Michael\source\repos\CSharpExercises\OOPpracticeExercise\bin\Debug\OOPpracticeExercise.pdb
+C:\Users\Michael\source\repos\CSharpExercises\OOPpracticeExercise\obj\Debug\OOPpracticeExercise.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\CSharpExercises\OOPpracticeExercise\obj\Debug\OOPpracticeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\CSharpExercises\OOPpracticeExercise\obj\Debug\OOPpracticeExercise.exe
+C:\Users\Michael\source\repos\CSharpExercises\OOPpracticeExercise\obj\Debug\OOPpracticeExercise.pdb
